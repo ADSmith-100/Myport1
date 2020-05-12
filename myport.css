@@ -63,7 +63,6 @@ nav {
 
 @media screen and (min-width: 900px) {
   .projects {
-    display: flex;
     margin-left: auto;
     margin-right: auto;
   }
