@@ -31,20 +31,20 @@ nav {
 }
 
 .bio {
-  margin-top: 60px;
-  width: 50%;
+  width: 95%;
 }
 
 .bio p {
-  font-size: 30px;
+  font-size: 20px;
 }
 
-@media all and (max-width: 768px) {
+@media all and (min-width: 900px) {
   .bio {
-    width: 95%;
+    margin-top: 60px;
+    width: 50%;
   }
   .bio p {
-    font-size: 20px;
+    font-size: 30px;
   }
 }
 
